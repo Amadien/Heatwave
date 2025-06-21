@@ -1,8 +1,8 @@
 {
 	"Name": "",
-	"Version": 1749428486,
+	"Version": 1750498666,
 	"MaxPerkRepetition": 1,
-	"GlobalNotes": "Balance by Daylight for Survivor Builds only.\nNote for the Lich: Survivors are not allowed to open Treasure Chests.\n",
+	"GlobalNotes": "Balance by Daylight for Survivor Builds only.\nNote for the Lich: Survivors are not allowed to open Treasure Chests.\nPlease ensure that idle crows are disabled for all upcoming matchups, until further notified!",
 	"Tiers": [
 		{
 			"Name": "General",
@@ -359,7 +359,7 @@
 		},
 		{
 			"Name": "The Nurse",
-			"KillerNotes": "The Nurse is for Wreckers' Yard Balancing.\n2 x Vigo's Shroud.",
+			"KillerNotes": "The Nurse is for Wreckers' Yard Balancing.\n",
 			"IsDisabled": false,
 			"Map": [
 				"8"
@@ -598,8 +598,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": []
 		},
@@ -1009,8 +1008,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": []
 		},
@@ -1184,8 +1182,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": []
 		},
@@ -1613,8 +1610,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": []
 		},
@@ -1797,8 +1793,7 @@
 				}
 			},
 			"SurvivorOfferings": [
-				5,
-				6
+				5
 			],
 			"KillerOfferings": []
 		},
@@ -2064,8 +2059,7 @@
 			},
 			"SurvivorOfferings": [
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": []
 		},
@@ -2182,8 +2176,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": []
 		},
@@ -2333,7 +2326,7 @@
 		},
 		{
 			"Name": "The Ghoul",
-			"KillerNotes": "The Ghoul is for Ormond Lake Mine Balancing.\n2 X Vigo's Shroud",
+			"KillerNotes": "The Ghoul is for Ormond Lake Mine Balancing.\n",
 			"IsDisabled": false,
 			"Map": [
 				"49"
